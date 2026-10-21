@@ -17,12 +17,12 @@ Meu trabalho combina desenvolvimento de aplicações, experimentação em Machin
 | Projeto | Escopo técnico |
 | --- | --- |
 | [TraceRAG](https://github.com/lucas-crvlh/TraceRAG) | Projeto experimental de recuperação de documentação técnica com proveniência das fontes, comparação entre BM25 e busca semântica multilíngue e avaliação reproduzível. Em desenvolvimento, ainda sem geração de respostas por LLM. |
-| **SGQ — Sistema de Gestão da Qualidade (Elus)** | Sistema corporativo em desenvolvimento para gestão e rastreabilidade de normas técnicas, com histórico auditável e controle de acesso. **Repositório privado.** |
+| **SGQ — Sistema de Gestão da Qualidade** | Projeto corporativo desenvolvido para uma **empresa confidencial**, voltado à gestão e rastreabilidade de normas técnicas, histórico auditável e controle de acesso. Versão pública demonstrativa de portfólio em preparação. |
 | [SompoGuard AI](https://github.com/lucas-crvlh/SompoGuardAI) | Protótipo acadêmico de previsão de risco operacional com Scikit-learn, API REST e painel de visualização. |
 | [FarmTech AI](https://github.com/lucas-crvlh/projeto_farmtech_AI) | Projeto acadêmico que integra Machine Learning, dados de sensores e IoT para apoio à decisão agrícola. |
 | [QA-Forge](https://github.com/lucas-crvlh/qa-forge-fintech-automation) | Framework de testes automatizados de APIs com Pytest, service virtualization, relatórios Allure e GitHub Actions. |
 
-Cada repositório documenta o problema tratado, a abordagem adotada e o estágio de desenvolvimento.
+Os repositórios públicos documentam o problema tratado, a abordagem adotada e o estágio de desenvolvimento.
 
 ## Tecnologias e ferramentas
 
